@@ -15,7 +15,7 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="System.Net.Http" Version="4.3.4" />
     <PackageReference Include="System.Text.RegularExpressions" Version="4.3.1" />
-    <PackageReference Include="Tingle.Extensions.Caching.MongoDB" Version="3.8.1" />
+    <PackageReference Include="Tingle.Extensions.Caching.MongoDB" Version="4.0.0" />
   </ItemGroup>
 
   <ItemGroup>
